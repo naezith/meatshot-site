@@ -9,6 +9,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: black; 
     background: url('background.png') no-repeat center center fixed;
     background-size: auto 100%;
     font-family: Arial, sans-serif;
